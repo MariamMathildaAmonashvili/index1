@@ -20,7 +20,10 @@ function arraySort(data) {
   console.log(data);
 }
 arraySort(array);
-
+არგუმენტი ამ რიგით (array , value , array1 , valur1) 2 მასივი შექმენით 7 ელემენტიანი სტრინგებით
+ამოირჩიეთ ნებისმიერი ელემენტი ამ ორივე მასივიდან 1 1 და გადაეცით ფუნქციას და ფუნქციამ უნდა გაიგოს
+ეს მნიშვნელობა რომელ ადგილზეა მერე ინდექსები შეადაროს ერთმანეთის და რომლის ინდექსიც მეტი იქნება 
+იმის მნიშვნელობა გამოიტანოს
 let firstArray = ["Blue", "Sky", "Sunny", "Day"];
 let secondArray = ["Mariam", "Mathilda", "Amonashvili", "Green"];
 function myArray(array, value, array1, value1) {
